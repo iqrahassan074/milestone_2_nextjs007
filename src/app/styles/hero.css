@@ -1,0 +1,26 @@
+.hero {
+    min-height: 100vh;
+    background-image: url('/iqra.jp.jpeg');
+    background-size: 25%;
+    background-position: left 100px top 100px;
+    background-repeat: no-repeat;
+    background-color: #faf0e2; 
+  }
+  
+  .hero-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .hero-content {
+    text-align: center;
+  }
+  
+  .hero-content p {
+    font-size: 5em;
+    font-family: 'Arial', sans-serif;
+    color: #120707; 
+  }
+  

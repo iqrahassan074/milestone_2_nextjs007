@@ -1,0 +1,20 @@
+.about-div {
+    padding: 50px;
+    text-align: center;
+    background-color: #e4eac7;
+    color: #020202;
+  }
+  
+  .about-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #060404;
+  }
+  
+  .about-description {
+    font-size: 1.1em;
+    color: #030202;
+    margin-top: 15px;
+    line-height: 1.6;
+  }
+  
